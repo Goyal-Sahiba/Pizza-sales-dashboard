@@ -14,3 +14,4 @@ The dashboard focuses on **Total Revenue, Total Quantity Sold, Best-Selling Pizz
 
 This dashboard transforms raw pizza sales data into **interactive and actionable business insights**, supporting better decisions related to **menu optimization, inventory planning, marketing strategies, and revenue growth**
 ![image alt](https://github.com/Goyal-Sahiba/Pizza-sales-dashboard/blob/main/Screenshot%202026-10-07%20150828.png?raw=true)
+![image alt](https://github.com/Goyal-Sahiba/Pizza-sales-dashboard/blob/main/Screenshot%202026-10-07%20150857.png?raw=true)
